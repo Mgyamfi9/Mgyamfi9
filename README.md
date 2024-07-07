@@ -1,16 +1,16 @@
 <h1 align="center" >Hi 👋, I'm Mike Gyamfi</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate data and machine learning engineer</h3>
 <img align="right" alt="frontend" width="400" src="https://static.vecteezy.com/system/resources/previews/012/658/272/original/3d-character-illustration-of-front-end-developer-free-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgyamfi9&label=Profile%20views&color=0e75b6&style=flat" alt="mgyamfi9" /> </p>
 
-- 🌱 I’m currently learning **React,Alx Software Engineering**
+- 🌱 I’m currently learning **DATA ENGINEERING WITH FABRIC, MACHINE LEARNING AND AI**
 
-- 💬 Ask me about **React, HTML, CSS, Javascript**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **mhikegyamphi@gmail.com**
 
-- ⚡ Fun fact **I like solving problems and making funny projects**
+- ⚡ Fun fact **I like solving problems and making fun projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
