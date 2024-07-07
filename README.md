@@ -33,7 +33,7 @@ Predicting weather conditions using historical weather data and machine learning
 
 
 ## 📫 Contact Me
-- Email: [yourname@example.com](mailto:mhikegyamphi@example.com)
+- Email: [mhikegyamphi@gmail.com](mailto:mhikegyamphi@example.com)
 
 ## ⚡ Fun Facts
 
