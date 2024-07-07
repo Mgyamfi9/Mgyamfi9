@@ -18,35 +18,24 @@ I am a Data and Machine Learning Engineer with a passion for turning data into a
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgyamfi9&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
 ### [Project 1: Abalone Age Prediction](https://github.com/yourusername/abalone-age-prediction)
 A machine learning project to predict the age of abalone using physical measurements.
 
-![Project 1](https://yourimageurl.com/project1.jpg)
-
 ### [Project 2: Medical Data Analysis](https://github.com/yourusername/medical-data-analysis)
 Analysis and prediction of medical data to assist in medical decision-making.
-
-![Project 2](https://yourimageurl.com/project2.jpg)
 
 ### [Project 3: Weather Data Forecasting](https://github.com/yourusername/weather-data-forecasting)
 Predicting weather conditions using historical weather data and machine learning techniques.
 
-![Project 3](https://yourimageurl.com/project3.jpg)
 
 ## 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: [yourname@example.com](mailto:yourname@example.com)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- Email: [yourname@example.com](mailto:mhikegyamphi@example.com)
 
 ## ⚡ Fun Facts
 
 - 💻 I enjoy working on open-source projects and contributing to the community.
 - 🌱 I am always learning new technologies and staying updated with the latest trends in data science and machine learning.
-- 🧩 In my free time, I love solving puzzles and participating in hackathons.
-
-![Footer Image](https://yourimageurl.com/footer.jpg)
