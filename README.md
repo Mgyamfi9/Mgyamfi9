@@ -16,10 +16,6 @@ I am a Data and Machine Learning Engineer with a passion for turning data into a
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgyamfi9&show_icons=true&theme=radical)
-
 ## 🌟 Featured Projects
 
 ### [Project 1: Abalone Age Prediction](https://github.com/yourusername/abalone-age-prediction)
