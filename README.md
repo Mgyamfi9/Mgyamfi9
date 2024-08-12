@@ -18,10 +18,10 @@ I am a Data and Machine Learning Engineer with a passion for turning data into a
 
 ## 🌟 Featured Projects
 
-### [Project 1:Abalone Age Prediction(https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Abalone%20Age%20Ring%20Prediction]
+### [Project 1:Abalone Age Prediction](https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Abalone%20Age%20Ring%20Prediction)
 A machine learning project to predict the age of abalone using physical measurements.
 
-### [Project 2: Medical Data Analysis(https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Acme%20Insurance)]
+### [Project 2: Medical Data Analysis](https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Acme%20Insurance)
 Analysis and prediction of medical data to assist in medical decision-making.
 
 ### [Project 3: Weather Data Forecasting](https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Australia%20rain)
