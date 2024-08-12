@@ -27,6 +27,12 @@ Analysis and prediction of medical data to assist in medical decision-making.
 ### [Project 3: Weather Data Forecasting](https://github.com/Mgyamfi9/Supervised-Learning/tree/main/Australia%20rain)
 Predicting weather conditions using historical weather data and machine learning techniques.
 
+### [Project 4: Wine Quality Prediction](https://github.com/Mgyamfi9/Supervised-Learning/tree/main/wine)
+Predicting the quality of wine using regression
+
+### [Project 5: Student Performance Classification](https://github.com/Mgyamfi9/Unsupervised-Learning/tree/main/student%20performance)
+Classifying students into gradeclasses using classification models in unsupervised learning
+
 
 ## 📫 Contact Me
 - Email: [mhikegyamphi@gmail.com](mailto:mhikegyamphi@example.com)
